@@ -10,7 +10,7 @@
     {
       "binding": "DB",
       "database_name": "telegram-channel-chatgpt",
-      "database_id": "REPLACE_WITH_YOUR_D1_DATABASE_ID",
+      "database_id": "00f9f82b-7295-4031-9167-d3f08c46fbc5",
       "migrations_dir": "migrations"
     }
   ]
