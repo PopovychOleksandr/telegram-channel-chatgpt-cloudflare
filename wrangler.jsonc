@@ -1,6 +1,6 @@
 {
   "$schema": "node_modules/wrangler/config-schema.json",
-  "name": "telegram-channel-chatgpt",
+  "name": "telegram-channel-chatgpt-cloudflare",
   "main": "src/index.js",
   "compatibility_date": "2026-07-23",
   "compatibility_flags": [
